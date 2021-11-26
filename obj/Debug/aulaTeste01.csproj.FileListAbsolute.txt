@@ -1,0 +1,10 @@
+C:\Users\elias\Desktop\repositorio\C#\aulaTeste01\bin\Debug\aulaTeste01.exe.config
+C:\Users\elias\Desktop\repositorio\C#\aulaTeste01\bin\Debug\aulaTeste01.exe
+C:\Users\elias\Desktop\repositorio\C#\aulaTeste01\bin\Debug\aulaTeste01.pdb
+C:\Users\elias\Desktop\repositorio\C#\aulaTeste01\obj\Debug\aulaTeste01.csproj.AssemblyReference.cache
+C:\Users\elias\Desktop\repositorio\C#\aulaTeste01\obj\Debug\aulaTeste01.Form1.resources
+C:\Users\elias\Desktop\repositorio\C#\aulaTeste01\obj\Debug\aulaTeste01.Properties.Resources.resources
+C:\Users\elias\Desktop\repositorio\C#\aulaTeste01\obj\Debug\aulaTeste01.csproj.GenerateResource.cache
+C:\Users\elias\Desktop\repositorio\C#\aulaTeste01\obj\Debug\aulaTeste01.csproj.CoreCompileInputs.cache
+C:\Users\elias\Desktop\repositorio\C#\aulaTeste01\obj\Debug\aulaTeste01.exe
+C:\Users\elias\Desktop\repositorio\C#\aulaTeste01\obj\Debug\aulaTeste01.pdb
